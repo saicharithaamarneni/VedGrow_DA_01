@@ -42,6 +42,22 @@ This project was completed as **Task 1** of the **VedGrow Data Analytics Interns
 - Passenger Class Distribution
 
 ---
+## 📸 Output Screenshots
+
+### Survival by Gender
+![Survival by Gender](images/survival_gender.png)
+
+### Survival by Passenger Class
+![Passenger Class](images/passenger_class.png)
+
+### Correlation Heatmap
+![Heatmap](images/correlation_heatmap.png)
+
+### Age Distribution
+![Age Distribution](images/age_distribution.png)
+
+### Fare Distribution
+![Fare Distribution](images/fare_distribution.png)
 
 ## 📈 Key Insights
 
